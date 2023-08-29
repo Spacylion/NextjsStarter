@@ -1,3 +1,5 @@
+/* eslint-disable semi */
+
 "use client"
 
 import { motion } from "framer-motion"
@@ -33,7 +35,7 @@ const ExploreCard = ({ id, imgUrl, title, index, active, handleClick }) => (
             className='w-1/2 h-1/2 object-contain'
           />
         </div>
-        <a href=''>
+        <a href='https://dextools.io'>
           <p className='font-normal text-[16px] leading-[20.16px] text-white uppercase'>
             BUY BOBO-X
           </p>

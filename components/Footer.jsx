@@ -28,7 +28,7 @@ const Footer = () => (
             alt='headset'
             className='w-[24px] h-[24px] object-contain'
           />
-          <a href=''>
+          <a href='https://dextools.io'>
             <span className='font-normal text-[16px] text-white'>
               BUY BOBO-X
             </span>
