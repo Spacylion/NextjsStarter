@@ -2,69 +2,70 @@ export const exploreWorlds = [
   {
     id: 'world-1',
     imgUrl: '/planet-01.png',
-    title: 'The Hogwarts',
+    title: 'The Bobo Moon',
   },
   {
     id: 'world-2',
     imgUrl: '/planet-02.png',
-    title: 'The Upside Down',
+    title: 'The BOBOlymic area',
   },
   {
     id: 'world-3',
     imgUrl: '/planet-03.png',
-    title: 'Kadirojo Permai',
+    title: 'Primal District',
   },
   {
     id: 'world-4',
     imgUrl: '/planet-04.png',
-    title: 'Paradise Island',
+    title: 'Fren Island',
   },
   {
     id: 'world-5',
     imgUrl: '/planet-05.png',
-    title: 'Hawkins Labs',
+    title: 'BOBO Labs',
   },
 ];
 
 export const startingFeatures = [
-  'Find a world that suits you and you want to enter',
-  'Enter the world by reading basmalah to be safe',
-  'No need to beat around the bush, just stay on the gas and have fun',
+  'Discover Diverse Realms: Embark on your odyssey through the BOBO Metaverse. Each world beckons, offering a unique allure that resonates with your desires.',
+  'Invoke Protective Passage: Safely traverse the metaverse by invoking the ancient basmalah. Let its sacred resonance shield you as you journey through uncharted dimensions.',
+  'Shape Dreams into Reality: From distant galaxies to neon-lit cities, BOBO Metaverse lets you manifest desires into tangible existence. Let imagination reign, and reality will follow suit.'
+
 ];
 
 export const newFeatures = [
   {
     imgUrl: '/vrpano.svg',
-    title: 'A new world',
+    title: 'A Fresh Frontier Unveiled',
     subtitle:
-        'we have the latest update with new world for you to try never mind',
+      'Behold the dawn of a new era within the BOBO Metaverse. Explore uncharted territories as we introduce a brand-new world, ready for your discovery.',
   },
   {
     imgUrl: '/headset.svg',
-    title: 'More realistic',
+    title: ' Heightened Realism Unleashed:',
     subtitle:
-        'In the latest update, your eyes are narrow, making the world more realistic than ever',
+      'Brace yourself for an immersive experience like no other. Our latest update refines the details, narrowing the gap between the virtual and the real. Prepare to be captivated by a realm of unprecedented realism.',
   },
 ];
 
 export const insights = [
   {
     imgUrl: '/planet-06.png',
-    title: 'The launch of the Metaverse makes Elon musk ketar-ketir',
+    title: 'The advent of the Bobo Metaverse has the tech world buzzing, leaving even Elon Musk intrigued.',
     subtitle:
-        'Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.',
+      'This technological marvel has even Elon Musk on the edge of his seat, demonstrating the immense potential it holds. While we dont make any financial predictions, the Bobo Metaverse is igniting curiosity across industries.',
   },
   {
     imgUrl: '/planet-07.png',
-    title: '7 tips to easily master the madness of the Metaverse',
+    title: 'Embark on a journey of discovery with these 7 practical tips for navigating the Bobo Metaverse.',
     subtitle:
-        'Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
+      'Mastering this new realm has never been easier, offering you insights into making the most out of your virtual exploration. Remember, we are here to provide guidance, not financial advice.',
   },
   {
     imgUrl: '/planet-08.png',
-    title: 'With one platform you can explore the whole world virtually',
+    title: 'Experience the boundless virtual landscape with a single platform.',
     subtitle:
-        'Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem',
+      'Imagine delving into countless virtual worlds from the comfort of one platform. Your adventures know no bounds as you immerse yourself in diverse environments and experiences. It is a universe of possibilities awaiting your exploration.',
   },
 ];
 
@@ -74,15 +75,15 @@ export const socials = [
     url: '/twitter.svg',
   },
   {
-    name: 'linkedin',
-    url: '/linkedin.svg',
+    name: 'telegram',
+    url: '/telegram.svg',
   },
   {
-    name: 'instagram',
-    url: '/instagram.svg',
+    name: 'dextools',
+    url: '/dextools.svg',
   },
   {
-    name: 'facebook',
-    url: '/facebook.svg',
+    name: 'etherscan-logo',
+    url: '/etherscan-logo.svg',
   },
 ];
